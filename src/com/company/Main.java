@@ -17,5 +17,14 @@ public class Main {
             es un comentario
             de varias lineas
              */
+            // metodos importantes
+            System.out.println (gradeExam);//muetra variable en consola
+            // String1 + string2 + string3 - encadenar string
+            // Integer.ParseInt(string)- convierte un string a int - eje: "3" a 3
+            // Double.ParseDouble(string) - convierte string a double
+            //String.ValueOf(number) - convierte los enteros o dobles a String
+
+
+
     }
 }
